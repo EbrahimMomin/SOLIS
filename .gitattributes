@@ -1,0 +1,1 @@
+SOLIS_SIMULATION filter=lfs diff=lfs merge=lfs -text
