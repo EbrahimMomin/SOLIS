@@ -9,7 +9,7 @@
 			"Enabled": true
 		},
 		{
-			"Name": "PythonAutomationTest",
+			"Name": "EditorScriptingUtilities",
 			"Enabled": true
 		}
 	]
